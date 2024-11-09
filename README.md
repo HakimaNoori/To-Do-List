@@ -52,7 +52,7 @@
 
 # 📖 [To-Do-List] <a name="about-project"></a>
 
-> **[To-Do List]** is a simple project build to add the todo tasks, check as completed and remove the task. This simple web page will be built using webpack and served by a webpack dev server(updated).
+> **[To-Do List]** is a simple project build to add the todo tasks, check as completed and remove the task. This simple web page will be built using webpack and served by a webpack dev server.
 
 ## 🛠 Built With <a name="built-with"></a>
 
